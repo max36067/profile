@@ -1,6 +1,5 @@
 # 個人作品集及相關資訊
 
-<br>
 ### 作品集:<br>
 LineChatBot 小遊戲 異世界電梯:<br>
 https://github.com/max36067/elevator_chatbot<br>
