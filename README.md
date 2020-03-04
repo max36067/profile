@@ -8,6 +8,7 @@ https://github.com/max36067/elevator_chatbot<br>
 https://github.com/max36067/chinese-news
 
 團體專題截圖(因部分資料庫隱私及雲端port不便上傳)
+![image](https://github.com/max36067/profile/blob/master/stock.PNG)
 
 <br>
 
