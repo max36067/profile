@@ -11,9 +11,9 @@ https://github.com/max36067/chinese-news
 
 
 
-筆記資料:\n
-python基礎課程筆記:\n
+筆記資料:<br>
+python基礎課程筆記:<br>
 https://www.dropbox.com/sh/u5223ajt7om1s6f/AABLQZJkZgs4ztuVLksnpBkja?dl=0
-\n
-machine learning課程上課實作\n
+<br>
+machine learning課程上課實作:<br>
 https://github.com/max36067/machine_learning_1211
