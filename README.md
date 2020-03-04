@@ -7,7 +7,8 @@ https://github.com/max36067/elevator_chatbot<br>
 簡易Bert模型搭建<br>
 https://github.com/max36067/chinese-news
 
-團體專題截圖(因部分資料庫隱私及雲端port不便上傳)
+團體專題截圖(因部分為組員資料庫隱私，因此不便上傳)
+
 ![image](https://github.com/max36067/profile/blob/master/stock.PNG)
 
 <br>
