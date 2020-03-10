@@ -9,7 +9,7 @@ https://github.com/max36067/chinese-news
 
 團體專題-Stock in the game (因部分為組員資料庫隱私，因此不便上傳)<br>
 詳情可見下方PPT
-主要以股市當沖及自動AI交易為主題
+主要以股市當沖及自動AI交易為主題<br>
 https://reurl.cc/oLz6Gl
 ![image](https://github.com/max36067/profile/blob/master/stock.PNG)
 
