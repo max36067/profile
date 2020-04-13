@@ -10,8 +10,8 @@ Simple Bert ↓<br>
 [Here!](https://github.com/max36067/chinese-news)
 
 ### 爬蟲及雲端部屬相關內容
-Scrapy and cloud
-[Here!](https://github.com/max36067/star_scrapy)
+Scrapy and cloud<br>
+[Here!](https://github.com/max36067/star_scrapy)<br>
 [Here!](https://github.com/max36067/codetest)
 
 ## 團體專題-Stock in the game 
