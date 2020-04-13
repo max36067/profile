@@ -9,6 +9,11 @@ My own LineBot ↓<br>
 Simple Bert ↓<br>
 [Here!](https://github.com/max36067/chinese-news)
 
+### 爬蟲及雲端部屬相關內容
+Scrapy and cloud
+[Here!](https://github.com/max36067/star_scrapy)
+[Here!](https://github.com/max36067/codetest)
+
 ## 團體專題-Stock in the game 
 (因部分為組員資料庫隱私，因此不便上傳)<br>
 詳情可見下方PPT<br>
